@@ -1,4 +1,4 @@
-import * as baileys from 'baileys';
+import * as baileys from '@whiskeysockets/baileys';
 import fs from 'fs-extra';
 import pino from 'pino';
 import cors from 'cors';
